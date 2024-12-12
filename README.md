@@ -1,4 +1,4 @@
-# Grade_Calculation_Program
+# Grade Calculation Program
 
 This is a Java program that manages and analyses student grades. The program allows users to input points ranging from 0 to 100 and calculates various statistics such as:
 - Overall average score
